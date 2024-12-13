@@ -1,0 +1,3 @@
+lista = [1, 2, 4, 5, 1, 2, 5, 1]
+wystapienia = lista.count(1)
+print(f'Liczba 1 występuje {wystapienia} razy.')
